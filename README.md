@@ -23,9 +23,6 @@ O layout você poderá acessar através [desse link](https://www.figma.com/file/
 Jest - Cypess - Responsivo - Usar o componente de select do radix - Validação do formulário https://react-hook-form.com/
 Atutenticação com o Discord - Exibir os anúncios criados - Carrosel https://keen-slider.io/
 
-
-## 💻 Clonando projeto
-$ git clone https://github.com/DenisRaineri/nlw-esports-ignite.git
 # Instalando dependências
 $ npm i
 
